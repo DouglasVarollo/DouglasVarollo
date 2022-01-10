@@ -1,8 +1,5 @@
 # Hi there, i'm Douglas Varollo 👋
 
-![](https://komarev.com/ghpvc/?username=DouglasVarollo&color=blue)
-[![wakatime](https://wakatime.com/badge/user/34d26a69-a02f-402d-8721-07b56d681a1f.svg)](https://wakatime.com/@34d26a69-a02f-402d-8721-07b56d681a1f)
-
 - 🔭 I’m currently working on [Happy](https://github.com/DouglasVarollo/Happy)
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on Open source projects
